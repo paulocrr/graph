@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1478847043 source:/media/paulo/Datos/Mis Docs/UCSP/Ciencias de la Computacion I/Graph/graph/Graph/main.cpp
+	<iostream>
+	<vector>
+	"Graph.h"
+
+1478847165 source:/media/paulo/Datos/Mis Docs/UCSP/Ciencias de la Computacion I/Graph/graph/Graph/Graph.cpp
+	"Graph.h"
+
+1478847121 /media/paulo/Datos/Mis Docs/UCSP/Ciencias de la Computacion I/Graph/graph/Graph/Graph.h
+	<iostream>
+	<vector>
+	<map>
+
